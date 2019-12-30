@@ -21,9 +21,9 @@ class Helpers{
         })
     }
 
-    static sendErrorMessage(res,pesan="success"){
+    static sendErrorMessage(res,pesan="error"){
         res.status(200).json({
-             api_status : 1,
+             api_status : 0,
              api_message : pesan.toString(),
         })
     }
