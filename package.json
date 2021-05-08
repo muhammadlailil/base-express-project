@@ -15,7 +15,7 @@
     "express": "~4.16.1",
     "express-fileupload": "^1.1.6-alpha.5",
     "express-validator": "^6.1.1",
-    "handlebars": "^4.4.3",
+    "handlebars": "^4.7.7",
     "http-errors": "~1.6.3",
     "image-to-base64": "^2.0.1",
     "knex": "^0.19.1",
