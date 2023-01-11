@@ -18,7 +18,7 @@
     "handlebars": "^4.4.3",
     "http-errors": "~1.6.3",
     "image-to-base64": "^2.0.1",
-    "knex": "^0.19.1",
+    "knex": "^2.4.0",
     "log4js": "^5.1.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
